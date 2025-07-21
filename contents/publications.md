@@ -1,3 +1,4 @@
+## 论文
 - 彭甲超, 李浩楠, & 肖建忠. (2025). [高碳行业的气候转型风险冲击与行业溢出](https://link.cnki.net/urlid/10.1738.F.20250625.1324.022). 计量经济学报, Forthcoming.
 
 - Jiali Tian, Siyu Fu, Peng Jiachao, &Fu Shuke. (2025). [Synergies of air pollution and carbon reduction and their impact pathways in China's industrial sector](https://doi.org/10.1007/s10668-025-06155-x). ENVIRONMENT DEVELOPMENT&SUSTAINABILITY, ,e13630.
@@ -52,8 +53,9 @@
 
 - Zhang Lijing, Peng Jiachao, Liu Jiabei, &Wenyan Huang. (2023). The impact of carbon-biased technological progress on carbon haze coordinated governance: insights from China. ENVIRONMENTAL SCIENCE&POLLUTION RESEARCH, 31(25),36329-36348.
 
-- Jiachao Peng. (2023). Factor distortions, market power, and total factor productivity of energy enterprises. CHINESE FINANCIAL&ECONOMIC PUBLISHING HOUSE(中国财政经济出版社), .
+
 
 - Wen Yang, Jianzhong Xiao, &Peng Jiachao. (2023). The effects of the “Zero Routine Flaring by 2030” initiative: International comparisons based on generalized synthetic control method. ENVIRONMENTAL IMPACT ASSESSMENT REVIEW, 100,107095.
 
-
+## 著作
+- Jiachao Peng. (2023). Factor distortions, market power, and total factor productivity of energy enterprises. CHINESE FINANCIAL&ECONOMIC PUBLISHING HOUSE(中国财政经济出版社), .
