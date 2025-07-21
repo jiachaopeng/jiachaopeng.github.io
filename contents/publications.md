@@ -1,7 +1,7 @@
-- 论文
-- - 彭甲超, 李浩楠, & 肖建忠. (2025). [高碳行业的气候转型风险冲击与行业溢出](https://link.cnki.net/urlid/10.1738.F.20250625.1324.022). 计量经济学报, Forthcoming.
 
-- - Jiali Tian, Siyu Fu, Peng Jiachao, &Fu Shuke. (2025). [Synergies of air pollution and carbon reduction and their impact pathways in China's industrial sector](https://doi.org/10.1007/s10668-025-06155-x). ENVIRONMENT DEVELOPMENT&SUSTAINABILITY, ,e13630.
+- 彭甲超, 李浩楠, & 肖建忠. (2025). [高碳行业的气候转型风险冲击与行业溢出](https://link.cnki.net/urlid/10.1738.F.20250625.1324.022). 计量经济学报, Forthcoming.
+
+- Jiali Tian, Siyu Fu, Peng Jiachao, &Fu Shuke. (2025). [Synergies of air pollution and carbon reduction and their impact pathways in China's industrial sector](https://doi.org/10.1007/s10668-025-06155-x). ENVIRONMENT DEVELOPMENT&SUSTAINABILITY, ,e13630.
 
 - 郑坤, & 彭甲超. (2025). [人工智能政策对中国制造业绿色低碳转型的影响效应分析](). 能源研究与管理, 17(01),25-33.
 
@@ -146,5 +146,5 @@
 
 - Fu Shu Ke, Zhang Yan, Peng Jia Chao, & Zhou Ting Jing. (2016). Evaluation on ecological civilization construction of urban agglomeration in the middle reaches of Yangtze River. CONFERENCE PROCEEDINGS OF THE 4TH INTERNATIONAL SYMPOSIUM ON PROJECT MANAGEMENT,ISPM 2016, ,155-159.
 
-- 著作
-- - Jiachao Peng. (2023). Factor distortions, market power, and total factor productivity of energy enterprises. CHINESE FINANCIAL&ECONOMIC PUBLISHING HOUSE(中国财政经济出版社), .
+
+- Jiachao Peng. (2023). Factor distortions, market power, and total factor productivity of energy enterprises. CHINESE FINANCIAL&ECONOMIC PUBLISHING HOUSE(中国财政经济出版社), .
