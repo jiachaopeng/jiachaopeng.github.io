@@ -9,11 +9,10 @@
 
 ## 介绍 | Introduction
 
-这是一个**通用的个人主页模板**，基于 [Sen Li 的学术主页模板](https://github.com/senli1073/senli1073.github.io) 进行修改。  
+彭甲超，男，中共党员，湖北丹江口人，副教授，应用经济学博士，工商管理学博士后，湖北省楚天英才计划楚天学者，武汉工程大学第五层次优秀人才，澳大利亚麦考瑞大学科学与工程学院访问学者。主持国家自然科学基金青年项目、国家统计局项目、优秀博士论文创新基金项目（中央高校基金）、湖北省科技创新人才及服务专项软科学研究项目、湖北省社科基金项目、湖北省教育厅哲学社会科学研究一般项目和重点项目、武汉市曙光计划青年人才项目等纵向项目10余项。目前在SSCI/SCI/CSSCI/EI/CSCD等高水平中英文期刊发表论文80余篇，在人民出版社、中国财政经济出版社以及中国社会科学出版社等出版中英文专著8部。受邀担任Total Quality Management & Business Excellence（SSCI/ABS/FMS/ABDC）期刊副主编，Energy Exploration & Exploitation（SCI/EI）期刊副主编，Cogent Economics & Finance（ESCI/ABS/ABDC）期刊领域主编，以及高水平SCI/EI期刊编委和学术编辑。获评2023年《绿色矿冶》优秀青年编委、2024年中国知网高影响力学者、高被引学者。
 
-我新增了**工作经历板块**，使其更加适用于程序员和求职者。并且使用了中英文对照版本。
 
-This is a **general-purpose personal website template**, modified from [Sen Li's academic template](https://github.com/senli1073/senli1073.github.io).  
+ Dr. Jiachao Peng is an associate professor, with a Ph.D. in Applied Economics and a postdoctoral fellowship in Business Administration. He is a Chutian Scholar in Hubei province and an outstanding talent at Wuhan Institute of Technology. He has been a visiting scholar at Macquarie University and has led numerous funded projects. His research focuses on sustainable development, applied economics and business administration, contributing significantly to the field through various high-impact studies. He has published more than 80 peer-viewed papers in high-level journals and 8 books within Chinese and Enghlish. Dr. Peng's work has influenced both academic circles and practical applications in sustainable economics and business. He has been invited to serve as the associate editor of Total Quality Management & Business Excellence, Energy Exploration & Exploitation, and as the section editor of Cogent Economics & Finance. Also, he is the editorial board member and editor of high-level journals, such as Humanities & Social Sciences Communications, Communications Sustainability. Dr. Peng currently organizes sustainability issues in more than 10 high-level journals, including Environmental Research, Carbon Balance and Management, which have received enthusiastic response from the academic community and governments. Notably, he was selected as 0.5% Top Scholar - Prior 5 Years (ScholarGPS) and 1% Top Scholar Highly Cited (CNKI).
 
 I have added a **work experience section**, making it more practical for programmers and job seekers.
 
