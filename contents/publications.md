@@ -19,13 +19,13 @@
 
 - Yifei Xu, Peng Jiachao, Jiali Tian, Siyu Fu, Hu Chang, Shuke Fu, & Yanzhen Feng. (2024). [The impact and mechanism analysis of Clean Development Mechanism on the synergistic effects of pollution mitigation and carbon reduction](https://doi.org/10.1016/j.envres.2024.119659). ENVIRONMENTAL RESEARCH, 260,119659.
 
-- Liu Bei, Zhaoxuan Qiu, Peng Jiachao, &Yaoyin Hu. (2025). Temporal Evolution Pathway and Forecasting of Non‐Fossil Energy Consumption and Carbon Emission Under China's Carbon Peak Target: A Markov Switching AR and RNN Approach. EXPERT SYSTEMS, 42(2).
+- Liu Bei, Zhaoxuan Qiu, Peng Jiachao, & Yaoyin Hu. (2025). Temporal Evolution Pathway and Forecasting of Non‐Fossil Energy Consumption and Carbon Emission Under China's Carbon Peak Target: A Markov Switching AR and RNN Approach. EXPERT SYSTEMS, 42(2).
   
-- Peng Jiachao, Chen Hanfei, Fu Shuke, &Jiali Tian. (2024). Quantifying the Spatial and Temporal Variability of Carbon-Biased Technological Progress and its Driving factors in China. THE SINGAPORE ECONOMIC REVIEW, ,1-38.
+- Peng Jiachao, Chen Hanfei, Fu Shuke, & Jiali Tian. (2024). Quantifying the Spatial and Temporal Variability of Carbon-Biased Technological Progress and its Driving factors in China. THE SINGAPORE ECONOMIC REVIEW, ,1-38.
 
-- 彭甲超, 罗坤, &付思雨. (2024). 数字普惠金融能减少居民能源消费碳排放吗?. 长沙理工大学学报（社会科学版）, 39(05),102-114.
+- 彭甲超, 罗坤, & 付思雨. (2024). 数字普惠金融能减少居民能源消费碳排放吗?. 长沙理工大学学报（社会科学版）, 39(05),102-114.
 
-- 彭甲超, 付书科, 颜星星, 田嘉莉, &杨娟. (2024). “三区融合”背景下大学生创新创业课程融入支持高质量就业路径优化研究. THEORY&PRACTICE OF SOCIAL SCIENCE, 6(4),23-39.
+- 彭甲超, 付书科, 颜星星, 田嘉莉, & 杨娟. (2024). “三区融合”背景下大学生创新创业课程融入支持高质量就业路径优化研究. THEORY&PRACTICE OF SOCIAL SCIENCE, 6(4),23-39.
   
 - 肖建忠, 温阳, 彭甲超, &路祥翼. (2024). 转型风险视角下化石能源资产搁浅对投资者决策的影响研究. 系统工程理论与实践, Forthcoming.
   
