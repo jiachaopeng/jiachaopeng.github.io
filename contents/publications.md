@@ -25,15 +25,14 @@
 
 - 彭甲超, 罗坤, & 付思雨. (2024). 数字普惠金融能减少居民能源消费碳排放吗?. 长沙理工大学学报（社会科学版）, 39(05),102-114.
 
-- 彭甲超, 付书科, 颜星星, 田嘉莉, & 杨娟. (2024). “三区融合”背景下大学生创新创业课程融入支持高质量就业路径优化研究. THEORY&PRACTICE OF SOCIAL SCIENCE, 6(4),23-39.
   
-- 肖建忠, 温阳, 彭甲超, &路祥翼. (2024). 转型风险视角下化石能源资产搁浅对投资者决策的影响研究. 系统工程理论与实践, Forthcoming.
+- 肖建忠, 温阳, 彭甲超, & 路祥翼. (2024). 转型风险视角下化石能源资产搁浅对投资者决策的影响研究. 系统工程理论与实践, Forthcoming.
   
-- Fu Shuke, Yingchen Ge, Hao Yu, Peng Jiachao, &Jiali Tian. (2024). Energy supply chain efficiency in the digital era: Evidence from China's listed companies. ENERGY ECONOMICS, 134,107597.
+- Fu Shuke, Yingchen Ge, Hao Yu, Peng Jiachao, & Jiali Tian. (2024). Energy supply chain efficiency in the digital era: Evidence from China's listed companies. ENERGY ECONOMICS, 134,107597.
 
-- 周迎, 肖建忠, &彭甲超. (2024). 国内动力煤市场、成品油市场与LNG市场价格间的溢出效应研究. 管理学报, 21(05),769-778.
+- 周迎, 肖建忠, & 彭甲超. (2024). 国内动力煤市场、成品油市场与LNG市场价格间的溢出效应研究. 管理学报, 21(05),769-778.
 
-- Peng Jiachao, Le Wen, Jianzhong Xiao, Yi Ming, &Sheng Mingyue Selena. (2024). Industrial Chain, Supply Chain and Value Chain in the Energy Industry: Opportunities and Challenges. ENERGIES, 17(6),1467.
+- Peng Jiachao, Le Wen, Jianzhong Xiao, Yi Ming, & Sheng Mingyue Selena. (2024). Industrial Chain, Supply Chain and Value Chain in the Energy Industry: Opportunities and Challenges. ENERGIES, 17(6), 1467.
 
 - Peng Jiachao, Yi Ming, Fu Shuke, Wang Hui, Le Wen, &Wang Teng. (2024). Biased technological progress and coordination of carbon emission reduction and haze reduction. ENVIRONMENTAL SCIENCE&POLLUTION RESEARCH, 31(25),36307-36310.
 
