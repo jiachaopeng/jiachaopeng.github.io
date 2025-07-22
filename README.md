@@ -13,7 +13,7 @@
 
  Dr. Jiachao Peng is an associate professor, with a Ph.D. in Applied Economics and a postdoctoral fellowship in Business Administration. He is a Chutian Scholar in Hubei province and an outstanding talent at Wuhan Institute of Technology. He has been a visiting scholar at Macquarie University and has led numerous funded projects. His research focuses on sustainable development, applied economics and business administration, contributing significantly to the field through various high-impact studies. He has published more than 80 peer-viewed papers in high-level journals and 8 books within Chinese and Enghlish. Dr. Peng's work has influenced both academic circles and practical applications in sustainable economics and business. He has been invited to serve as the associate editor of Total Quality Management & Business Excellence, Energy Exploration & Exploitation, and as the section editor of Cogent Economics & Finance. Also, he is the editorial board member and editor of high-level journals, such as Humanities & Social Sciences Communications, Communications Sustainability. Dr. Peng currently organizes sustainability issues in more than 10 high-level journals, including Environmental Research, Carbon Balance and Management, which have received enthusiastic response from the academic community and governments. Notably, he was selected as 0.5% Top Scholar - Prior 5 Years (ScholarGPS) and 1% Top Scholar Highly Cited (CNKI).
 
-I have added a **work experience section**, making it more practical for programmers and job seekers.
+
 
 
 
@@ -56,15 +56,3 @@ git push
 ```
 
 
-### 3. 访问你的网站 | Enjoy
-
-打开浏览器，访问 https://<用户名>.github.io，即可查看你的个人主页
-
-Fire up a browser and go to `https://<username>.github.io`
-
-
-
-## License
-本项目基于 MIT 许可协议，你可以自由使用和修改此模板。 Yixin Huang 2025年2月7号
-
-Copyright Yixin Huang, 2025. Licensed under an MIT license. You can copy and mess with this template.
