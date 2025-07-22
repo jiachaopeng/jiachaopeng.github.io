@@ -53,6 +53,17 @@
 - 肖建忠, 彭甲超, & 程胜. (2023). 要素市场扭曲、资本偏袒与能源企业全要素生产率. 管理评论, 35(04),27-41.
 
 
-
 ### **著作**
-- **Peng Jiachao**. (2023). Factor distortions, market power, and total factor productivity of energy enterprises. CHINESE FINANCIAL & ECONOMIC PUBLISHING HOUSE(中国财政经济出版社).
+- 李嘉欣, 彭甲超, 孟戈. 太阳能光伏扶贫项目减贫效率研究-基于中国 8 省 52 个贫困村的实证分析[M]. 北京: 中国财政经济出版社, 2025.
+
+- Peng, J., Wen, L., Xiao, J., Yi, M., Sheng, M. Industrial chain, supply chain and value chain in the energy industry: opportunities and challenges [M]. MDPI Books, 2024.
+
+- 肖建忠,彭甲超（著）.中国天然气全产业链市场安全问题研究[M].北京:人民出版社, 2024.
+
+- 彭甲超(著).要素市场扭曲、市场势力与能源企业全要素生产率[M].北京:中国财政经济出版社,2023. [**Peng Jiachao**. (2023). Factor distortions, market power, and total factor productivity of energy enterprises. CHINESE FINANCIAL & ECONOMIC PUBLISHING HOUSE.]
+
+- 易明,彭甲超,刘志高,等著.长江经济带制造业绿色创新效率研究[M].北京:中国社会科学出版社,2021
+
+- 付书科,彭甲超, 等著. 长江经济带经济高质量发展测试研究[M].武汉:中国地质大学出版社,2021.
+
+- 易明,彭甲超(副主编),王腾等.国家创新驱动战略背景下的区域技术转移研究[M]. 武汉:中国地质大学出版社,2017.
