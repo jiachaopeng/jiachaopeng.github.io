@@ -56,7 +56,7 @@
 ### **著作**
 - 李嘉欣, 彭甲超, 孟戈. 太阳能光伏扶贫项目减贫效率研究-基于中国 8 省 52 个贫困村的实证分析[M]. 北京: 中国财政经济出版社, 2025.
 
-- Peng, J., Wen, L., Xiao, J., Yi, M., Sheng, M. Industrial chain, supply chain and value chain in the energy industry: opportunities and challenges [M]. MDPI Books, 2024.
+- **Peng Jiachao**, Wen Le, Xiao Jianzhong, Yi Ming, Sheng Mingyue. [Industrial chain, supply chain and value chain in the energy industry: opportunities and challenges](https://doi.org/10.3390/books978-3-7258-1200-4). ***MDPI Books***, 2024, **ISBN 978-3-7258-1199-1**.
 
 - 肖建忠,彭甲超（著）.中国天然气全产业链市场安全问题研究[M].北京:人民出版社, 2024.
 
