@@ -25,7 +25,6 @@
 
 - 彭甲超, 罗坤, & 付思雨. (2024). [数字普惠金融能减少居民能源消费碳排放吗?](https://kns.cnki.net/kcms2/article/abstract?v=4OORb77KhuK5vKLYWWDiNNmwP6i0pTF9v1x4uj6g3xrAJTq68UVAyGfdeF6cPNHoFKmR4WIzEITc3ybpnVpjTcFT0zd3QZVqkgZV5bTgiJ36ilB118AOhDbkzrB_MBByMdHaglCc3kIoyGpI3NCwPESCM2NC8qKTwAXWzJ7FdXjBR_Lpxpg4rg==&uniplatform=NZKPT&language=CHS). 长沙理工大学学报（社会科学版）, 39(05),102-114.
 
-  
 - 肖建忠, 温阳, 彭甲超, & 路祥翼. (2024). [转型风险视角下化石能源资产搁浅对投资者决策的影响研究](https://kns.cnki.net/kcms2/article/abstract?v=4OORb77KhuIToXkR9IGp2YDLpIYD05BNJQ0Mwjm31ywkQq0274mg-YpoD_VzoQIZxdd-zgvaCAe7VAWDVT4AB0-oV_teg8xqxvDB3SS4GQ7XsAYqy8tr5rwFznyl7XDUSnnKJ8pRDzb84UycYumoB4MTsPBsELBpvhDOy4BI2D25s-yrauQ8_Q==&uniplatform=NZKPT&language=CHS). 系统工程理论与实践, Forthcoming.
   
 - Fu Shuke, Yingchen Ge, Hao Yu, Peng Jiachao, & Jiali Tian. (2024). [Energy supply chain efficiency in the digital era: Evidence from China's listed companies](https://doi.org/10.1016/j.eneco.2024.107597). ENERGY ECONOMICS, 134,107597.
@@ -130,7 +129,6 @@
 
 - 易明, &彭甲超. (2018). 我国高新技术产业专利创新效率演变规律及空间差异研究——基于全要素生产率的测算与分解. 科技进步与对策, 35(5),68-73.
 
-
 - 付书科, 李小帆, 彭甲超, 张子悦, &陈思. (2018). 基于动态因子分析法的长江三角洲城市群城镇化质量测度研究. 长江流域资源与环境, 27(9),1909-1918.
 
 - 张座铭, 彭甲超, &易明. (2018). 中国技术市场运行效率:动态演进规律及空间差异特征. 科技进步与对策, 35(20),55-63.
@@ -145,5 +143,6 @@
 
 - Fu Shu Ke, Zhang Yan, Peng Jia Chao, & Zhou Ting Jing. (2016). Evaluation on ecological civilization construction of urban agglomeration in the middle reaches of Yangtze River. CONFERENCE PROCEEDINGS OF THE 4TH INTERNATIONAL SYMPOSIUM ON PROJECT MANAGEMENT,ISPM 2016, ,155-159.
 
-
 - Jiachao Peng. (2023). Factor distortions, market power, and total factor productivity of energy enterprises. CHINESE FINANCIAL&ECONOMIC PUBLISHING HOUSE(中国财政经济出版社), .
+
+
