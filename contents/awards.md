@@ -1,3 +1,2 @@
-- 校级一等奖学金, 2022.  
+- **当代经济学基金会博士创新项目复审奖**, 2022.  
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
