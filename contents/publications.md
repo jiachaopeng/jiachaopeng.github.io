@@ -50,20 +50,20 @@
   
 - Ke Huang, Wang Teng, **Peng Jiachao**, & Sun Lijun. (2023). [The Impact of Export Sophistication of the New Energy Industry on Carbon Emissions: An Empirical Study](https://doi.org/10.3390/en16093846). ***ENERGIES***, 16(9),3846.
 
-- 肖建忠, 彭甲超, & 程胜. (2023). 要素市场扭曲、资本偏袒与能源企业全要素生产率. 管理评论, 35(04),27-41.
+- 肖建忠, **彭甲超***, & 程胜. (2023). [要素市场扭曲、资本偏袒与能源企业全要素生产率](http://123.57.61.11/jweb_glpl/CN/Y2023/V35/I4/27). ***管理评论***, 35(04),27-41.
 
 
 ### **著作**
-- 李嘉欣, 彭甲超, 孟戈. 太阳能光伏扶贫项目减贫效率研究-基于中国 8 省 52 个贫困村的实证分析[M]. 北京: 中国财政经济出版社, 2025.
+- 李嘉欣, **彭甲超**, 孟戈. [太阳能光伏扶贫项目减贫效率研究-基于中国 8 省 52 个贫困村的实证分析](). 北京: **中国财政经济出版社**, 2025.
 
 - **Peng Jiachao**, Wen Le, Xiao Jianzhong, Yi Ming, Sheng Mingyue. [Industrial chain, supply chain and value chain in the energy industry: opportunities and challenges](https://doi.org/10.3390/books978-3-7258-1200-4). ***MDPI Books***, 2024, **ISBN 978-3-7258-1199-1**.
 
-- 肖建忠,彭甲超（著）.中国天然气全产业链市场安全问题研究[M].北京:人民出版社, 2024.
+- 肖建忠, **彭甲超**. [中国天然气全产业链市场安全问题研究](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%84%B6%E6%B0%94%E5%85%A8%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%B8%82%E5%9C%BA%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98%E7%A0%94%E7%A9%B6/65086412). 北京:**人民出版社**, 2024.
 
-- 彭甲超(著).要素市场扭曲、市场势力与能源企业全要素生产率[M].北京:中国财政经济出版社,2023. [**Peng Jiachao**. (2023). Factor distortions, market power, and total factor productivity of energy enterprises. CHINESE FINANCIAL & ECONOMIC PUBLISHING HOUSE.]
+- **彭甲超**.[要素市场扭曲、市场势力与能源企业全要素生产率](https://baike.baidu.com/item/%E8%A6%81%E7%B4%A0%E5%B8%82%E5%9C%BA%E6%89%AD%E6%9B%B2%E3%80%81%E5%B8%82%E5%9C%BA%E5%8A%BF%E5%8A%9B%E4%B8%8E%E8%83%BD%E6%BA%90%E4%BC%81%E4%B8%9A%E5%85%A8%E8%A6%81%E7%B4%A0%E7%94%9F%E4%BA%A7%E7%8E%87/63410751#:~:text=%E6%9C%AC%E4%B9%A6%E5%9F%BA%E4%BA%8E%E8%B5%84%E6%BA%90%E9%94%99%E9%85%8D,%E8%A1%8C%E4%B8%9ATFP%E6%8D%9F%E5%A4%B1%E3%80%82).北京:**中国财政经济出版社**, 2023. [**Peng Jiachao**. (2023). Factor distortions, market power, and total factor productivity of energy enterprises. CHINESE FINANCIAL & ECONOMIC PUBLISHING HOUSE.]
 
-- 易明,彭甲超,刘志高,等著.长江经济带制造业绿色创新效率研究[M].北京:中国社会科学出版社,2021
+- 易明, 彭甲超, 刘志高, 等著. [长江经济带制造业绿色创新效率研究](https://baike.baidu.com/item/%E9%95%BF%E6%B1%9F%E7%BB%8F%E6%B5%8E%E5%B8%A6%E5%88%B6%E9%80%A0%E4%B8%9A%E7%BB%BF%E8%89%B2%E5%88%9B%E6%96%B0%E6%95%88%E7%8E%87%E7%A0%94%E7%A9%B6). 北京: **中国社会科学出版社**, 2021
 
-- 付书科,彭甲超, 等著. 长江经济带经济高质量发展测试研究[M].武汉:中国地质大学出版社,2021.
+- 付书科, **彭甲超**, 等著. [长江经济带经济高质量发展测度研究](). 武汉: **中国地质大学出版社**, 2021.
 
-- 易明,彭甲超(副主编),王腾等.国家创新驱动战略背景下的区域技术转移研究[M]. 武汉:中国地质大学出版社,2017.
+- 易明, **彭甲超**, 王腾. [国家创新驱动战略背景下的区域技术转移研究](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%88%9B%E6%96%B0%E9%A9%B1%E5%8A%A8%E6%88%98%E7%95%A5%E8%83%8C%E6%99%AF%E4%B8%8B). 武汉: **中国地质大学出版社**, 2017.
