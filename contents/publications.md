@@ -1,4 +1,8 @@
 ### **论文**
+- 肖建忠, 温阳, **彭甲超***, & 路祥翼. (2025). [转型风险视角下化石能源资产搁浅对投资者决策的影响研究](https://sysengi.cjoe.ac.cn/CN/10.12011/SETP2023-2499). ***系统工程理论与实践***, 45(7), 2202-2225.
+
+- Yuan Li, Tao Jing, Sun Jun, & **Peng Jiachao***. (2025). [Does the Green Patent Pre-examination Program Reduce Environmental Pollution?](). ***Humanities and Social Sciences Communications*** (SSCI), Forthcoming,
+
 - **彭甲超**, 李浩楠, & 肖建忠. (2025). [高碳行业的气候转型风险冲击与行业溢出](https://link.cnki.net/urlid/10.1738.F.20250625.1324.022). ***计量经济学报*** (FMS T1, CSSCI), Forthcoming.
 
 - Jiali Tian, Siyu Fu, **Peng Jiachao***, & Fu Shuke. (2025). [Synergies of air pollution and carbon reduction and their impact pathways in China's industrial sector](https://doi.org/10.1007/s10668-025-06155-x). ***ENVIRONMENT DEVELOPMENT & SUSTAINABILITY*** (SCI), Forthcoming.
@@ -22,9 +26,6 @@
 - Liu Bei, Zhaoxuan Qiu, **Peng Jiachao***, & Yaoyin Hu. (2025). [Temporal Evolution Pathway and Forecasting of Non‐Fossil Energy Consumption and Carbon Emission Under China's Carbon Peak Target: A Markov Switching AR and RNN Approach](https://doi.org/10.1111/exsy.13755). ***EXPERT SYSTEMS***, 42(2).
   
 - **Peng Jiachao**, Chen Hanfei, Fu Shuke, & Jiali Tian. (2024). [Quantifying the Spatial and Temporal Variability of Carbon-Biased Technological Progress and its Driving factors in China](https://doi.org/10.1142/S0217590824470192). ***SINGAPORE ECONOMIC REVIEW***,1-38.
-
-
-- 肖建忠, 温阳, **彭甲超***, & 路祥翼. (2024). [转型风险视角下化石能源资产搁浅对投资者决策的影响研究](https://kns.cnki.net/kcms2/article/abstract?v=4OORb77KhuIToXkR9IGp2YDLpIYD05BNJQ0Mwjm31ywkQq0274mg-YpoD_VzoQIZxdd-zgvaCAe7VAWDVT4AB0-oV_teg8xqxvDB3SS4GQ7XsAYqy8tr5rwFznyl7XDUSnnKJ8pRDzb84UycYumoB4MTsPBsELBpvhDOy4BI2D25s-yrauQ8_Q==&uniplatform=NZKPT&language=CHS). ***系统工程理论与实践***, Forthcoming.
   
 - Fu Shuke, Yingchen Ge, Hao Yu, **Peng Jiachao**, & Jiali Tian. (2024). [Energy supply chain efficiency in the digital era: Evidence from China's listed companies](https://doi.org/10.1016/j.eneco.2024.107597). ***ENERGY ECONOMICS***, 134,107597.
 
